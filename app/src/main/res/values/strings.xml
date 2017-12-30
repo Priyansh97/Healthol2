@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Healthol</string>
+
+    <string-array name="bloodgp">
+        <item>A positive</item>
+        <item>A negative</item>
+        <item>B positive</item>
+        <item>B negative</item>
+        <item>O positive</item>
+        <item>O negative</item>
+        <item>AB positive</item>
+        <item>AB negative</item>
+    </string-array>
+
+</resources>
